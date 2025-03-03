@@ -1,3 +1,3 @@
 function redirectToContact() {
-    window.location.href = "tel:+8801234567890"; // Replace with your contact number
+    window.location.href = "tel:+8801234567890"; // এখানে তোমার ফোন নম্বর বসাও
 }
